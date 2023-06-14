@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pract3</string>
+    <string name="text_view">Hello, I\'m text</string>
+    <string name="text_view_second">You in Second Fragment</string>
+    <string name="button_text">Change fragment</string>
+    <string name="button_second">Press me to return in MainFragment</string>
+    <string name="text_edit">Write here</string>
+</resources>
